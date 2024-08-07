@@ -62,15 +62,16 @@ int main(){
 //Assignment 4
 
 #include<iostream>
-#include<math.h>
+#include<cmath>
 using namespace std;
-void func(int a){
-    int res = sqrt(a);
+void func(double num){
+    double res = sqrt(num);
     cout<<res<<" is the Squareroot.";
 }
 int main(){
-    int a;
+    double a;
     cout<<"Enter Number: ";
     cin>>a;
-    func(a);
+     func(a);
 }
+
