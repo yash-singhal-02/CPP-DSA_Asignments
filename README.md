@@ -6,3 +6,13 @@
 Assignment 2: Find the largest number among three numbers
 Assingment 3: Create a function that will return the sum of 3 numbers
 Assignment 4: Create a function that will return sqrt/square of a number
+
+# DAY_3
+<i>Write a C++ program that demonstrates the use of pointers with simple variables. The program should:
+
+Declare three integer variables: a, b, and c.
+Declare three pointers: p1, p2, and p3.
+Assign the address of a to p1, the address of b to p2, and the address of c to p3.
+Use the pointers to assign values to a, b, and c.
+Calculate the sum of a, b, and c using the pointers and store the result in a variable sum.
+Print the values of a, b, c, and sum.<i>
