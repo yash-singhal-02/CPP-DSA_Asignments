@@ -16,3 +16,6 @@ Assign the address of a to p1, the address of b to p2, and the address of c to p
 Use the pointers to assign values to a, b, and c.
 Calculate the sum of a, b, and c using the pointers and store the result in a variable sum.
 Print the values of a, b, c, and sum.<i>
+
+# DAY_4
+<i> Define a Book class with a constructor to initialise its properties (title, author, year), and a method displayInfo.<i>
